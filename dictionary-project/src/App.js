@@ -18,7 +18,7 @@ function App() {
         </a>{" "}
         , is open-sourced on
         <a
-          href="https://github.com/tajche77/react-weather-application"
+          href="https://github.com/tajche77/Dictionary_Project"
           target="_blank"
           rel="noreferrer"
         >
@@ -26,7 +26,7 @@ function App() {
         </a>
         {""} and is hosted on {""}
         <a
-          href="https://kaleidoscopic-toffee-53c4a6.netlify.app/"
+          href="https://fabulous-gumdrop-d71596.netlify.app"
           target="_blank"
           rel="noreferrer"
         >
